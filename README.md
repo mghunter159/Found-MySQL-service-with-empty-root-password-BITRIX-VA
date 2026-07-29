@@ -1,0 +1,1 @@
+# Found-MySQL-service-with-empty-root-password-BITRIX-VA
